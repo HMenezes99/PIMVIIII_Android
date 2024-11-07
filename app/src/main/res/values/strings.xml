@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">interfaceUser</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Cadastrar Conta</string>
+</resources>
